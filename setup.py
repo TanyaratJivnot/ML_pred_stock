@@ -30,6 +30,9 @@ setup(
         'tzdata==2024.1',
         'urllib3==2.2.1',
         'Werkzeug==3.0.3',
-        'zipp==3.19.0'
+        'zipp==3.19.0',
+        'setuptools==65.5.0',
+        'wheel==0.37.1',
+        'opencv-python'
     ],
 )
