@@ -11,6 +11,7 @@
         "src": "/(.*)",
         "dest": "app.py"
       }
-    ]
+    ],
+    "postinstall": "pip install setuptools wheel"
   }
   
