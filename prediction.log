@@ -1,0 +1,8 @@
+2024-05-30 00:09:35,347 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-30 00:09:35,347 [33mPress CTRL+C to quit[0m
+2024-05-30 00:09:35,349  * Restarting with stat
+2024-05-30 00:09:36,822  * Debugger is active!
+2024-05-30 00:09:36,825  * Debugger PIN: 401-436-168
+2024-05-30 00:09:50,909 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-30
+2024-05-30 00:09:50,910 127.0.0.1 - - [30/May/2024 00:09:50] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
