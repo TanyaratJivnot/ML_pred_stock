@@ -26,3 +26,4 @@ urllib3==2.2.1
 Werkzeug==3.0.3
 zipp==3.19.0
 setuptools 
+opencv-python
